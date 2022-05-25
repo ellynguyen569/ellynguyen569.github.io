@@ -97,12 +97,12 @@ header, footer {
 /* Typography Styles */
 
 html {
-    font-family: montserrat, Arial, Helvetica, sans-serif;
+    font-family: montserrat/*, Arial, Helvetica, sans-serif*/;
     font-style: normal;
 }
 
 h1 {
-    font-family: josefinslab, Arial, Helvetica, sans-serif;
+    font-family: josefinslab/*, Arial, Helvetica, sans-serif*/;
     font-size: 3.75rem;
     margin: 1.125rem;
     text-align: center;
